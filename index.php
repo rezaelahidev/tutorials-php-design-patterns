@@ -48,7 +48,11 @@ require __DIR__ . '/vendor/autoload.php';
 
     // ============= Composite ===========//
 
-    include __DIR__ . '/src/Structural/Composite/use-case.php';
+    // include __DIR__ . '/src/Structural/Composite/use-case.php';
+
+    // ============= Decorator ===========//
+
+    include __DIR__ . '/src/Structural/Decorator/use-case.php';
 }
 
 #Behavioral
