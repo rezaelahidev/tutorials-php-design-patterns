@@ -56,7 +56,15 @@ require __DIR__ . '/vendor/autoload.php';
 
     // ============= Facade ===========//
 
-    include __DIR__ . '/src/Structural/Facade/use-case.php';
+    // include __DIR__ . '/src/Structural/Facade/use-case.php';
+
+    // ============= FlyWeight ===========//
+
+    // include __DIR__ . '/src/Structural/FlyWeight/use-case.php';
+
+    // ============= Proxy ===========//
+
+    include __DIR__ . '/src/Structural/Proxy/use-case.php';
 }
 
 #Behavioral
