@@ -1,0 +1,18 @@
+{
+    "name": "learning/design-patterns",
+    "autoload": {
+        "psr-4": {
+            "Learning\\DesignPatterns\\": "src/"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "reza elahi",
+            "email": "relahi1373@gmail.com"
+        }
+    ],
+    "require": {}
+}
