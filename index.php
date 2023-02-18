@@ -52,7 +52,11 @@ require __DIR__ . '/vendor/autoload.php';
 
     // ============= Decorator ===========//
 
-    include __DIR__ . '/src/Structural/Decorator/use-case.php';
+    // include __DIR__ . '/src/Structural/Decorator/use-case.php';
+
+    // ============= Facade ===========//
+
+    include __DIR__ . '/src/Structural/Facade/use-case.php';
 }
 
 #Behavioral
