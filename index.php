@@ -88,5 +88,9 @@ require __DIR__ . '/vendor/autoload.php';
 
     // ============= Memento ===========//
 
-    include __DIR__ . '/src/Behavioral/Memento/use-case.php';
+    // include __DIR__ . '/src/Behavioral/Memento/use-case.php';
+
+    // ============= Observer ===========//
+
+    include __DIR__ . '/src/Behavioral/Observer/use-case.php';
 }

@@ -1,0 +1,3 @@
+2023-02-19 07:35:28: 'users:init' with data '"I:\\lara\\tutorials-php-design-patterns\\src\\Behavioral\\Observer\/users.csv"'
+2023-02-19 07:35:28: 'users:created' with data '{"attributes":{"name":"John Smith","email":"john99@example.com","id":"d7f5126683f8e8082efe6f3fa549af48"}}'
+2023-02-19 07:35:28: 'users:deleted' with data '{"attributes":{"name":"John Smith","email":"john99@example.com","id":"d7f5126683f8e8082efe6f3fa549af48"}}'
