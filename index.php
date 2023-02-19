@@ -100,5 +100,9 @@ require __DIR__ . '/vendor/autoload.php';
 
     // ============= Strategy ===========//
 
-    include __DIR__ . '/src/Behavioral/Strategy/use-case.php';
+    // include __DIR__ . '/src/Behavioral/Strategy/use-case.php';
+
+    // ============= Template Method ===========//
+
+    include __DIR__ . '/src/Behavioral/TemplateMethod/use-case.php';
 }
