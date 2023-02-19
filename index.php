@@ -80,9 +80,13 @@ require __DIR__ . '/vendor/autoload.php';
 
     // ============= Iterator ===========//
 
-    include __DIR__ . '/src/Behavioral/Iterator/use-case.php';
+    // include __DIR__ . '/src/Behavioral/Iterator/use-case.php';
 
     // ============= Mediator ===========//
 
     // include __DIR__ . '/src/Behavioral/Mediator/use-case.php';
+
+    // ============= Memento ===========//
+
+    include __DIR__ . '/src/Behavioral/Memento/use-case.php';
 }
