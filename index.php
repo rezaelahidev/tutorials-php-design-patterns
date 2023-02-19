@@ -71,5 +71,10 @@ require __DIR__ . '/vendor/autoload.php';
 {
     // ============= Chain of Responsibility ===========//
 
-    include __DIR__ . '/src/Behavioral/ChainOfResponsibility/use-case.php';
+    // include __DIR__ . '/src/Behavioral/ChainOfResponsibility/use-case.php';
+
+
+    // ============= Mediator ===========//
+
+    include __DIR__ . '/src/Behavioral/Mediator/use-case.php';
 }
