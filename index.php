@@ -64,9 +64,12 @@ require __DIR__ . '/vendor/autoload.php';
 
     // ============= Proxy ===========//
 
-    include __DIR__ . '/src/Structural/Proxy/use-case.php';
+    // include __DIR__ . '/src/Structural/Proxy/use-case.php';
 }
 
 #Behavioral
 {
+    // ============= Chain of Responsibility ===========//
+
+    include __DIR__ . '/src/Behavioral/ChainOfResponsibility/use-case.php';
 }
