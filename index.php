@@ -96,5 +96,9 @@ require __DIR__ . '/vendor/autoload.php';
 
     // ============= Visitor ===========//
 
-    include __DIR__ . '/src/Behavioral/Visitor/use-case.php';
+    // include __DIR__ . '/src/Behavioral/Visitor/use-case.php';
+
+    // ============= Strategy ===========//
+
+    include __DIR__ . '/src/Behavioral/Strategy/use-case.php';
 }
