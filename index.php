@@ -92,5 +92,9 @@ require __DIR__ . '/vendor/autoload.php';
 
     // ============= Observer ===========//
 
-    include __DIR__ . '/src/Behavioral/Observer/use-case.php';
+    // include __DIR__ . '/src/Behavioral/Observer/use-case.php';
+
+    // ============= Visitor ===========//
+
+    include __DIR__ . '/src/Behavioral/Visitor/use-case.php';
 }
