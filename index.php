@@ -76,7 +76,11 @@ require __DIR__ . '/vendor/autoload.php';
 
     // ============= Command ===========//
 
-    include __DIR__ . '/src/Behavioral/Command/use-case.php';
+    // include __DIR__ . '/src/Behavioral/Command/use-case.php';
+
+    // ============= Iterator ===========//
+
+    include __DIR__ . '/src/Behavioral/Iterator/use-case.php';
 
     // ============= Mediator ===========//
 
