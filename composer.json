@@ -1,5 +1,6 @@
 {
     "name": "learning/design-patterns",
+    "description": "This project to descibe all design patterns in programming with php language!",
     "license": "MIT",
     "autoload": {
         "psr-4": {
