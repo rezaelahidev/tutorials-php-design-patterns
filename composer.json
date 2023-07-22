@@ -1,5 +1,6 @@
 {
     "name": "learning/design-patterns",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Learning\\DesignPatterns\\": "src/"
