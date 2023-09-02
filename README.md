@@ -6,5 +6,15 @@ How to run?
 
 ```bash
   cd tutorials-php-design-patterns
-  php index.php Behavioral ChainOfResponsibility
+```
+
+## Command Pattern
+```bash
+php index.php PATTERN_TYPE PATTERN_NAME
+```
+
+## Example
+
+```bash
+php index.php Behavioral ChainOfResponsibility
 ```
